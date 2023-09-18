@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("Mitt commit");
         //New comment
+        int g = 1;
 
         JOptionPane.showMessageDialog(null, "merge");
 
